@@ -1,0 +1,21 @@
+h1{
+    color: darkblue;
+    background-color: aquamarine;
+}
+h2
+{
+   color: burlywood;
+   background-color: black;
+}
+img
+{
+    height: 300px;
+    width:300px
+    
+}
+a
+{
+    text-size-adjust: 4px;
+    color: rgb(125, 43, 226);
+    background-color: black;
+}
